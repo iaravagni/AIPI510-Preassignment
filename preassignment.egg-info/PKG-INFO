@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: preassignment
+Version: 0.0.1
+Summary: Reads a CSV file and calculates de average age for men and women having a stroke
+Author: Iara Ravagni
+Author-email: iara.ravagni@duke.edu
+Requires-Dist: autocommand==2.2.2
+Requires-Dist: backports.tarfile==1.2.0
+Requires-Dist: colorama==0.4.6
+Requires-Dist: importlib_metadata==8.0.0
+Requires-Dist: importlib_resources==6.4.0
+Requires-Dist: inflect==7.3.1
+Requires-Dist: iniconfig==2.0.0
+Requires-Dist: jaraco.context==5.3.0
+Requires-Dist: jaraco.functools==4.0.1
+Requires-Dist: jaraco.text==3.12.1
+Requires-Dist: more-itertools==10.3.0
+Requires-Dist: numpy==2.1.0
+Requires-Dist: packaging==24.1
+Requires-Dist: pandas==2.2.2
+Requires-Dist: platformdirs==4.2.2
+Requires-Dist: pluggy==1.5.0
+Requires-Dist: pytest==8.3.2
+Requires-Dist: python-dateutil==2.9.0.post0
+Requires-Dist: pytz==2024.1
+Requires-Dist: setuptools==73.0.1
+Requires-Dist: six==1.16.0
+Requires-Dist: tomli==2.0.1
+Requires-Dist: typeguard==4.3.0
+Requires-Dist: typing_extensions==4.12.2
+Requires-Dist: tzdata==2024.1
+Requires-Dist: wheel==0.43.0
+Requires-Dist: zipp==3.19.2

@@ -1,0 +1,8 @@
+README.md
+setup.py
+preassignment.egg-info/PKG-INFO
+preassignment.egg-info/SOURCES.txt
+preassignment.egg-info/dependency_links.txt
+preassignment.egg-info/entry_points.txt
+preassignment.egg-info/requires.txt
+preassignment.egg-info/top_level.txt
